@@ -11,7 +11,7 @@ Outdated Software Detection: Checks HTTP headers for common software version ind
 
 ## Installation
 **Clone the Repository**
-- git clone https://github.com/your-username/vulnerability-scanning-tool.git
+- git clone https://github.com/gourabg2000/Codtech_task_2.git
 
 **Install nmap**
 
